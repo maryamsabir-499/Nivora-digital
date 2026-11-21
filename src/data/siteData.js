@@ -1,6 +1,6 @@
 export const site = {
   name: 'Nivora Digital',
-  url: 'https://YOUR-DOMAIN.com',
+  url: 'https://nivora-digital.vercel.app',
   email: 'nivoradigital1029@gmail.com',
   phone: '+923288699236',
   whatsapp: '923288699236',
